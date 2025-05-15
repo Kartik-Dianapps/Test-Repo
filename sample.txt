@@ -1,3 +1,7 @@
 This is the sample used for testing only......
 This is done DianApps 
+<<<<<<< HEAD
 By Kartikjkaxnskjhwkjdhcgvsgsdcsdcnjkdhckcjn
+=======
+By Kartikjkaxnskjhwkjdhcgvsgsdc
+>>>>>>> bcaae7661e24629208d45700ee1e0c8fb14825a8
